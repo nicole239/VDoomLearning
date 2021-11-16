@@ -1,0 +1,32 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.6.4",
+    "heartbeatAt": "2021-11-16T02:51:57.297513",
+    "startedAt": "2021-11-16T02:51:45.679365",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9003",
+        "--control=9001",
+        "--hb=9000",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"81ed67e8-9016-434d-837f-f59cd2491976\"",
+        "--shell=9002",
+        "--transport=\"tcp\"",
+        "--iopub=9004",
+        "--f=C:\\Users\\ruben\\AppData\\Local\\Temp\\tmp-13004xMBF6lwe0Hf0.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/nicole239/VDoomLearning.git",
+        "commit": "7805d83256f2d8e9cb259202a51794f4db93346d"
+    },
+    "email": "rgonzalez@datasoftla.com",
+    "root": "C:/Users/ruben/VDoomLearning",
+    "host": "DESKTOP-SHM1J6E",
+    "username": "ruben",
+    "executable": "C:\\Users\\ruben\\AppData\\Local\\Programs\\Python\\Python36\\python.exe"
+}

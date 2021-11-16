@@ -1,0 +1,170 @@
+
+Epoch 0: : 0it [00:00, ?it/s]
+  | Name | Type | Params
+------------------------------
+0 | net  | Net  | 42.1 K
+------------------------------
+42.1 K    Trainable params
+0         Non-trainable params
+42.1 K    Total params
+0.168     Total estimated model params size (MB)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+test/total_score 13.274154663085938
+test/total_score -115.99931335449219
+test/total_score -94.56581115722656
+test/total_score 9.674407958984375
+test/total_score 67.8492431640625
+test/total_score 55.34892272949219
+test/total_score -53.65437316894531
+test/total_score -85.16093444824219
+test/total_score -44.55181884765625
+test/total_score -24.325942993164062
