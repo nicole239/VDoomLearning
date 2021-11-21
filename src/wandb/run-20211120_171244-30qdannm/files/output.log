@@ -1,0 +1,138 @@
+
+Epoch 0: : 0it [00:00, ?it/s]
+  | Name | Type | Params
+------------------------------
+0 | net  | Net  | 42.1 K
+------------------------------
+42.1 K    Trainable params
+0         Non-trainable params
+42.1 K    Total params
+0.168     Total estimated model params size (MB)
+C:\Users\nicol\AppData\Local\Programs\Python\Python36\lib\site-packages\pytorch_lightning\trainer\data_loading.py:111: UserWarning: The dataloader, train_dataloader, does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` (try 4 which is the number of cpus on this machine) in the `DataLoader` init to improve performance.
+  f"The dataloader, {name}, does not have many workers which may be a bottleneck."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Button.MOVE_LEFT, Button.MOVE_RIGHT, Button.ATTACK, Button.MOVE_FORWARD, Button.MOVE_BACKWARD, Button.TURN_LEFT, Button.TURN_RIGHT]
+test/total_score 45.183563232421875
+test/total_reward 145.1384850380564
+test/total_score -35.01899719238281
+test/total_reward 64.93102355790143
+test/total_score -44.16343688964844
+test/total_reward 55.75522123866381
+test/total_score -88.52696228027344
+test/total_reward 11.41625476791046
+test/total_score -94.65213012695312
+test/total_reward 5.2500034896586385
+test/total_score -107.22447204589844
+test/total_reward -7.3213721609727145
+test/total_score 46.63238525390625
+test/total_reward 146.52256934444995
+test/total_score -115.98796081542969
+test/total_reward -16.0833130163885
+test/total_score 84.67062377929688
+test/total_reward 184.56007511687062
+test/total_score -115.98524475097656
+test/total_reward -16.010573569668168
