@@ -1,0 +1,618 @@
+
+Epoch 0: : 0it [00:00, ?it/s]
+  | Name | Type | Params
+------------------------------
+0 | net  | Net  | 42.1 K
+------------------------------
+42.1 K    Trainable params
+0         Non-trainable params
+42.1 K    Total params
+0.168     Total estimated model params size (MB)
+C:\Users\nicol\AppData\Local\Programs\Python\Python36\lib\site-packages\pytorch_lightning\trainer\data_loading.py:111: UserWarning: The dataloader, train_dataloader, does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` (try 4 which is the number of cpus on this machine) in the `DataLoader` init to improve performance.
+  f"The dataloader, {name}, does not have many workers which may be a bottleneck."
+
+                                                GPU available: False, used: False
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+  | Name | Type | Params
+------------------------------
+0 | net  | Net  | 42.1 K
+------------------------------
+42.1 K    Trainable params
+0         Non-trainable params
+42.1 K    Total params
+0.168     Total estimated model params size (MB)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 4: : 0it [00:00, ?it/s, loss=-0.00336, v_num=13]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Button.MOVE_LEFT, Button.MOVE_RIGHT, Button.ATTACK, Button.MOVE_FORWARD, Button.MOVE_BACKWARD, Button.TURN_LEFT, Button.TURN_RIGHT]
+test/total_score -106.93836975097656
+test/total_reward -167.02103647000217
+test/total_score 247.61598205566406
+test/total_reward -215.54791155482508
+test/total_score 13.521530151367188
+test/total_reward -48.58495433259577
+test/total_score -73.67863464355469
+test/total_reward -157.77806249714217
+test/total_score -72.53730773925781
+test/total_reward -362.1835888573696
+test/total_score 5.2506561279296875
+test/total_reward -4649.401885770645
+test/total_score -51.72502136230469
+test/total_reward -103.8164086572499
+test/total_score -115.99479675292969
+test/total_reward -923.9582012030742
+test/total_score -66.17277526855469
+test/total_reward -36.27265166847519
+test/total_score -115.997802734375
+test/total_reward -731.9368194217705
+[Button.MOVE_LEFT, Button.MOVE_RIGHT, Button.ATTACK, Button.MOVE_FORWARD, Button.MOVE_BACKWARD, Button.TURN_LEFT, Button.TURN_RIGHT]
+test/total_score -90.89691162109375
+test/total_reward -270.7683277062997
+test/total_score 324.54457092285156
+test/total_reward -2211.1775033506
+test/total_score -105.430908203125
+test/total_reward -173.52779731948817
+test/total_score -20.45208740234375
+test/total_reward 41.444233412813446
+test/total_score 2.2378692626953125
+test/total_reward -169.01695535344197
+test/total_score -49.79768371582031
+test/total_reward -101.8388349534448
+test/total_score -115.96760559082031
+test/total_reward -339.12241139182856
+test/total_score -16.461715698242188
+test/total_reward -58.56578544713784
+test/total_score -34.44090270996094
+test/total_reward -5795.893547027952
+test/total_score 120.88226318359375
+test/total_reward -177.02466021057558
+[Button.MOVE_LEFT, Button.MOVE_RIGHT, Button.ATTACK, Button.MOVE_FORWARD, Button.MOVE_BACKWARD, Button.TURN_LEFT, Button.TURN_RIGHT]
+test/total_score 102.02474975585938
+test/total_reward 115.90968778222486
+test/total_score -115.98960876464844
+test/total_reward -592.6567503094855
+test/total_score -53.88824462890625
+test/total_reward -85.97977368256602
+test/total_score -95.41099548339844
+test/total_reward -143.47048033597184
+test/total_score -107.98672485351562
+test/total_reward -160.08360284189598
+test/total_score 31.432998657226562
+test/total_reward -498.432989856261
+test/total_score -4.0376129150390625
+test/total_reward 53.857328982894614
+test/total_score 19.801910400390625
+test/total_reward -50.245719962856356
+test/total_score 133.7170867919922
+test/total_reward -4326.096595296288
+test/total_score -14.765716552734375
+test/total_reward -66.77838307414345
+[Button.MOVE_LEFT, Button.MOVE_RIGHT, Button.ATTACK, Button.MOVE_FORWARD, Button.MOVE_BACKWARD, Button.TURN_LEFT, Button.TURN_RIGHT]
+test/total_score -32.399810791015625
+test/total_reward -702.0763478560989
+test/total_score -52.77935791015625
+test/total_reward -10.88044285881847
+test/total_score -79.49752807617188
+test/total_reward -267.97785675105047
+test/total_score -29.0035400390625
+test/total_reward -25.106505051959402
+test/total_score -56.83161926269531
+test/total_reward -48.93244871513866
+test/total_score 127.52180480957031
+test/total_reward -5498.480270982866
+test/total_score -115.35690307617188
+test/total_reward -197.45322167940708
+test/total_score 36.95648193359375
+test/total_reward -1618.5486809257545
+test/total_score 116.38494873046875
+test/total_reward 158.32152770620746
+test/total_score 57.40484619140625

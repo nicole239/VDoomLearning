@@ -976,3 +976,17 @@
 2021-11-21 12:25:41,804 DEBUG   SenderThread:15748 [sender.py:send_request():252] send_request: stop_status
 2021-11-21 12:25:58,368 DEBUG   HandlerThread:15748 [handler.py:handle_request():130] handle_request: stop_status
 2021-11-21 12:25:58,369 DEBUG   SenderThread:15748 [sender.py:send_request():252] send_request: stop_status
+2021-11-21 12:26:14,278 DEBUG   HandlerThread:15748 [handler.py:handle_request():130] handle_request: stop_status
+2021-11-21 12:26:14,278 DEBUG   SenderThread:15748 [sender.py:send_request():252] send_request: stop_status
+2021-11-21 12:26:24,559 WARNING MainThread:15748 [internal.py:is_dead():367] Internal process exiting, parent pid 20040 disappeared
+2021-11-21 12:26:24,559 ERROR   MainThread:15748 [internal.py:wandb_internal():142] Internal process shutdown.
+2021-11-21 12:26:25,018 INFO    WriterThread:15748 [datastore.py:close():281] close: c:\vizdoom\vizdoom115pre\VDoomLearning-1\src\wandb\run-20211121_111659-v99qylcf\run-v99qylcf.wandb
+2021-11-21 12:26:25,097 INFO    SenderThread:15748 [sender.py:finish():1091] shutting down sender
+2021-11-21 12:26:25,097 INFO    HandlerThread:15748 [handler.py:finish():731] shutting down handler
+2021-11-21 12:26:25,097 INFO    SenderThread:15748 [dir_watcher.py:finish():283] shutting down directory watcher
+2021-11-21 12:26:25,888 INFO    SenderThread:15748 [dir_watcher.py:finish():313] scan: c:\vizdoom\vizdoom115pre\VDoomLearning-1\src\wandb\run-20211121_111659-v99qylcf\files
+2021-11-21 12:26:25,889 INFO    SenderThread:15748 [dir_watcher.py:finish():327] scan save: c:\vizdoom\vizdoom115pre\VDoomLearning-1\src\wandb\run-20211121_111659-v99qylcf\files\output.log output.log
+2021-11-21 12:26:25,890 INFO    SenderThread:15748 [file_pusher.py:finish():177] shutting down file pusher
+2021-11-21 12:26:25,890 INFO    SenderThread:15748 [file_pusher.py:join():182] waiting for file pusher
+2021-11-21 12:26:27,294 INFO    Thread-34 :15748 [upload_job.py:push():137] Uploaded file c:\vizdoom\vizdoom115pre\VDoomLearning-1\src\wandb\run-20211121_111659-v99qylcf\files\output.log
+2021-11-21 12:26:28,113 INFO    MainThread:15748 [internal.py:handle_exit():77] Internal process exited

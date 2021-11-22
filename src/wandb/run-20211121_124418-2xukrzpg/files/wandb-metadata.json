@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.6.4",
+    "heartbeatAt": "2021-11-21T18:44:27.973847",
+    "startedAt": "2021-11-21T18:44:18.411245",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9003",
+        "--control=9001",
+        "--hb=9000",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"22e980ec-f765-4e2f-9a62-033f724505dd\"",
+        "--shell=9002",
+        "--transport=\"tcp\"",
+        "--iopub=9004",
+        "--f=C:\\Users\\nicol\\AppData\\Local\\Temp\\tmp-17020y6TRdAc8AeFZ.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "DESKTOP-ECTUE9B",
+    "username": "Nicole",
+    "executable": "C:\\Users\\nicol\\AppData\\Local\\Programs\\Python\\Python36\\python.exe"
+}
